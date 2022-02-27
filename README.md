@@ -16,7 +16,7 @@ In this image we have the refactored code to the left and the original code to t
 Overall, 2017 was a good year for all stocks except TERP, which was the only stock that had a negative return of 7.2%. However, when you look at 2018, we can see a dramatic shift in total daily volumes and yearly returns among all stocks.
 
 Let’s look at the top three tickers with significant increases in volume: DQ, ENPH, RUN.
-- DQ had a sizable increase in daily volume, but a significant decrease in yearly returns compared to the previous year. This can be an indication of panic selling. Investors have a bearish view on the stock. Many investors are selling their assets while driving down the price of the stock. 
+- DQ had a sizable increase in daily volume, but a significant decrease in yearly returns compared to the previous year. This can be an indication of panic selling. Investors have a bearish view on the stock. Many investors are selling their assets which drives down the price of the stock. 
 - ENPH and RUN also had a sizable increase in daily volume. Unlike DQ, the yearly return is significantly higher than the previous year. This indicates there is greater interests in these stocks, making them competitive and pushing the prices of the stocks higher.
 
 ## Execution Times 
